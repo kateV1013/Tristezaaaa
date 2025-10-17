@@ -90,6 +90,9 @@
     <EmbeddedResource Include="Formularios\FrmMatriz2X2.resx">
       <DependentUpon>FrmMatriz2X2.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmMatriz3X3cs.resx">
+      <DependentUpon>FrmMatriz3X3cs.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FrmVectores.resx">
       <DependentUpon>FrmVectores.cs</DependentUpon>
     </EmbeddedResource>
