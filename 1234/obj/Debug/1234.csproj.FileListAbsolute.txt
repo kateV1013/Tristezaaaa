@@ -1,0 +1,12 @@
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\bin\Debug\1234.exe.config
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\bin\Debug\1234.exe
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\bin\Debug\1234.pdb
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\1234.csproj.AssemblyReference.cache
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\_1234.Form1.resources
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\_1234.Formularios.FrmVectores.resources
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\_1234.Properties.Resources.resources
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\1234.csproj.GenerateResource.cache
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\1234.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\1234.exe
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\1234.pdb
+C:\Users\Equipo\Documents\Holaa-Prueba\1234\1234\obj\Debug\1234.exe.config
